@@ -1,1 +1,0 @@
--This is a readme file that describes ubuntu VM and the command uname
